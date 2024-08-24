@@ -1,0 +1,7 @@
+lambda itu versi sederhana dari anonymous class
+
+syarat penggunaan lambda:
+- berupa interface
+- memiliki 1 method abstract
+- tambahkan anotasi @FunctionalInterface di interface nya
+- minimal pakai java 8
